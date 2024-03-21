@@ -12,7 +12,7 @@ html, body {
     display:flex;
     justify-content: center;
     align-items: center;
-    background-image: URL(./background.jpg);
+    background-image: URL(./calculator-logo_2694667);
 }
 @media screen and (max-width:600px) {.calculator{
   width: auto;
